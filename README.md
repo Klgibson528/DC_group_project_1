@@ -39,7 +39,7 @@ We wrote a database using Postgres with 4 tables for services, appointments, gro
   the pip environment, and everything had to be reinstalled into the pip virtual environment.
   After deployment, the app wouldn't run and this was resolved by going through 
   each Heroku log line by line.  
-  This resulted in lost get submission and code reviews from the team.
+  This resulted in lost git submission and code reviews from the team.
 * CSS - Getting the CSS to work the way we needed and wanted it to work.
 * GitHub - Being the first time to use the advanced features of GitHub and working 
   as a group caused a few dilemmmas getting everything to push, pull, and merge properly.
